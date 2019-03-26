@@ -1,2 +1,2 @@
 pear
-anggur
+anggur-easy
